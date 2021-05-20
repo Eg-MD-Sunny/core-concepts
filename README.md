@@ -9,6 +9,6 @@ You will also see any lint errors in the console.
 
 Live Link:
 =========
-https://festive-goldwasser-cd5bf5.netlify.app
+https://festive-goldwasser-cd5bf5.netlify.app    <<=================[Only React Setup & Some Customization]
 
 
