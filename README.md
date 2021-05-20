@@ -23,9 +23,9 @@ Link:
 
 Code:
 =====
-01.===>npx create-react-app my-app
-02.===>cd my-app
-03.===>npm start
+01.===>npx create-react-app my-app\
+02.===>cd my-app\
+03.===>npm start\
 04.===>code .
 
 
